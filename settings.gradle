@@ -1,0 +1,4 @@
+rootProject.name = 'otus_java_2020_03'
+
+rootProject.name = 'otusJava'
+include 'L01-gradle'
