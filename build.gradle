@@ -36,6 +36,7 @@ allprojects {
     }
 }
 
+
 //print versions from BOM
 task managedVersions {
     doLast {
