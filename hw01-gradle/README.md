@@ -13,6 +13,6 @@ Target: learn how to set up Java Gradle project.
 8) Create HelloOtus class
 9) Call some guava methods in HelloOtus
 10) Create uber-jar
-11) Make sure that uber-jar can be executed
+11) Make sure that uber-jar can be executed locally
 12) Make pull request
 13) Send PR for approval
