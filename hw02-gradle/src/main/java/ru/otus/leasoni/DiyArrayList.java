@@ -6,7 +6,7 @@ public class DiyArrayList<T> implements List<T> {
 
     private Object[] tArray;
     private int size;
-    private static final  Object[] DEFAULT_T_ARRAY = {};
+    private final Object[] DEFAULT_T_ARRAY = {};
     private static final int DEFAULT_CAPACITY = 10;
     public static final int MAX_ARRAY_LENGTH = Integer.MAX_VALUE - 8;
 
